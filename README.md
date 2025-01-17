@@ -1,51 +1,66 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Post de Consultoria Financeira no Instangran
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei que o ChatGPT criasse um post do tipo carrossel para venda de um serviço de consultoria financeira
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+**Slide 1:**
 
+🕒 **VOCÊ ESTÁ PERDENDO TEMPO COM SUAS FINANÇAS?**  
+
+Não deixe que a falta de organização financeira atrapalhe seus planos e sonhos!  
+
+---
+
+**Slide 2:**
+
+🚀 **GANHE TEMPO E REALIZE SEUS OBJETIVOS FINANCEIROS!**  
+
+Com a nossa consultoria financeira, você vai:  
+✔️ Organizar suas finanças de forma rápida e eficiente  
+✔️ Evitar erros caros e demorados  
+✔️ Tomar decisões certeiras, sem complicação!
+
+---
+
+**Slide 3:**
+
+💡 **FOQUE NO QUE REALMENTE IMPORTA!**  
+
+Nós cuidamos dos detalhes, enquanto você foca em alcançar o que sempre sonhou.  
+✅ Mais tempo livre  
+✅ Mais segurança financeira
+
+---
+
+**Slide 4:**
+
+⏳ **A CONSULTORIA CERTA VAI ACELERAR SEUS RESULTADOS!**  
+
+Com a nossa ajuda, você pode alcançar sua casa própria, fazer bons investimentos e garantir a aposentadoria dos seus sonhos — **sem perder tempo!**
+
+---
+
+**Slide 5:**
+
+📞 **NÃO PERCA MAIS TEMPO!**  
+
+Entre em contato agora e descubra como nossa consultoria pode transformar o seu futuro financeiro!  
+
+🔗 **Clique no link da bio para mais informações!**
+
+---
+
+**Slide 6 (Último):**
+
+💰 **TEMPO É DINHEIRO! E AQUI VOCÊ VAI GANHAR OS DOIS!**
+
+#ConsultoriaFinanceira #OrganizaçãoFinanceira #GanheTempo #LiberdadeFinanceira #FuturoSeguro #InvestirNoFuturo
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+As IAs generativas tem muitas possibilidades, com elas podemos ganhar agilidade e maior eficiência em nossas tarefas do dia a dia.
